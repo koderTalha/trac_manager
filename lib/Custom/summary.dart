@@ -114,11 +114,14 @@ class ExpenseSummary extends StatelessWidget {
                           Wednesday, Thursday, Friday, Saturady),
                       sunAmount: value.calculateAmountDaily()[Sunday] ?? 0,
                       monAmount: value.calculateAmountDaily()[Monday] ?? 0,
-                      friAmount: value.calculateAmountDaily()[Tuesday] ?? 0,
-                      satAmount: value.calculateAmountDaily()[Wednesday] ?? 0,
+                      tueAmount: value.calculateAmountDaily()[Tuesday] ?? 0,
+                      wedAmount: value.calculateAmountDaily()[Wednesday] ?? 0,
                       thuAmount: value.calculateAmountDaily()[Thursday] ?? 0,
-                      tueAmount: value.calculateAmountDaily()[Friday] ?? 0,
-                      wedAmount: value.calculateAmountDaily()[Saturady] ?? 0,
+                      friAmount: value.calculateAmountDaily()[Friday] ?? 0,
+                      satAmount: value.calculateAmountDaily()[Saturady] ?? 0,
+
+
+
                     )),
               ],
             ));
