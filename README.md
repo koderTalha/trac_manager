@@ -1,6 +1,7 @@
 # trac_manager
 
-A new Flutter project.
+A Flutter Project that uses state management tool(provider) to keep a check on spend daily and gives weekly summary as well.
+Bar Graph is used to Determine the expenditure during that week.
 
 ## Getting Started
 
