@@ -1,0 +1,4 @@
+#Tue Oct 24 18:49:27 PKT 2023
+base.0=/home/talha/StudioProjects/trac_manager/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

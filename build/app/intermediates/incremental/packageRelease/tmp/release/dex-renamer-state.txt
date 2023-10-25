@@ -1,0 +1,4 @@
+#Tue Oct 24 19:29:09 PKT 2023
+base.0=/home/talha/StudioProjects/trac_manager/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
